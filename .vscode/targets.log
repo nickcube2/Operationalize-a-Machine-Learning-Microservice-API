@@ -7,7 +7,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
 
-# Make data base, printed on Thu Aug 11 11:11:11 2022
+# Make data base, printed on Wed Aug 17 19:51:06 2022
 
 # Variables
 
@@ -46,11 +46,11 @@ ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.6eCLumXJGd/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.bPFZdmWftd/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
-DISPLAY = /private/tmp/com.apple.launchd.n9YlIlZpxX/org.macosforge.xquartz:0
+DISPLAY = /private/tmp/com.apple.launchd.6RVPwAdlY3/org.macosforge.xquartz:0
 # environment
 CUDA_CACHE_MAXSIZE = 268435456
 # environment
@@ -64,7 +64,7 @@ HOME = /Users/nicholasawuni
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/nicholasawuni/Library/Application Support/Code/CachedData/3b889b090b5ad5793f524b5d1d39fda662b96a2a
+VSCODE_CODE_CACHE_PATH = /Users/nicholasawuni/Library/Application Support/Code/CachedData/6d9b74a70ca9c7733b29f0456fd8195364076dda
 # environment
 LOGNAME = nicholasawuni
 # environment
@@ -100,7 +100,7 @@ TMPDIR = /var/folders/0c/yk6lx1zn5y97xp076z2dlys00000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/nicholasawuni/Library/Application Support/Code/1.69.2-main.sock
+VSCODE_IPC_HOOK = /Users/nicholasawuni/Library/Application Support/Code/1.70.1-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -110,7 +110,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.15248301.15248307
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.16864412.16864418
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # automatic
@@ -136,7 +136,7 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 81682
+VSCODE_PID = 56496
 # variable set hash-table stats:
 # Load=63/1024=6%, Rehash=0, Collisions=1/89=1%
 
@@ -146,7 +146,7 @@ VSCODE_PID = 81682
 
 # Directories
 
-# . (device 16777222, inode 16253434): 15 files, no impossibilities.
+# . (device 16777221, inode 16253434): 15 files, no impossibilities.
 
 # 15 files, no impossibilities in 1 directories.
 
@@ -262,6 +262,6 @@ install:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Thu Aug 11 11:11:11 2022
+# Finished Make data base on Wed Aug 17 19:51:06 2022
 
  
